@@ -162,11 +162,14 @@ La base SQLite (`stock.db`) est créée automatiquement au premier lancement.
 
 ## 👤 Auteur
 
-**Saade Laissaoui**
+**Saad El Aissaoui**
 - GitHub : [@saadelaissaoui2002-ux](https://github.com/saadelaissaoui2002-ux)
+- Linkedin : [@saadelaissaoui](www.linkedin.com/in/saad-el-aissaoui-73b498294)
 
 ---
 
 ## 📄 Licence
 
-Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de détails.
+Ce projet est sous AGPL-3.0 pour un usage personnel et éducatif.
+
+Pour une utilisation commerciale, veuillez me contacter :📧 saadelaissaoui2002@gmail.com
