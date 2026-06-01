@@ -1,6 +1,6 @@
 # 📦 Stock Manager Pro
 
-Application desktop professionnelle de gestion de stock, développée avec **Python**, **PyQt6** et **SQLite**.
+Application desktop professionnelle de gestion de stock, développée avec **Python**, **PyQt6** et **SQLite**
 
 ![Python](https://img.shields.io/badge/Python-3.12+-blue?logo=python)
 ![PyQt6](https://img.shields.io/badge/PyQt6-6.5+-green?logo=qt)
