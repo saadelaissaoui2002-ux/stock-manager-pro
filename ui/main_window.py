@@ -339,6 +339,7 @@ class MainWindow(QMainWindow):
             "<h2 style='color: #00d2ff;'>Stock Manager Pro</h2>"
             "<p><b>Version 1.0.0</b></p>"
             "<p>Gestionnaire de Stock Intelligent - Application desktop professionnelle</p>"
+            "<p>Developpe par : El Aissaoui Saad et Radi Taha</p>"
             "<hr>"
             "<p><b>Technologies :</b></p>"
             "<ul>"

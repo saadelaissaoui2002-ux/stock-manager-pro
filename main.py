@@ -5,9 +5,8 @@ Stock Manager Pro - Gestionnaire de Stock Intelligent
 Application desktop professionnelle de gestion de stock
 avec PyQt6, SQLite, Matplotlib et export CSV/Excel.
 
-Auteur : Stock Manager Pro Team
+
 Version : 1.0.0
-Licence : MIT
 
 Utilisation :
     python main.py
